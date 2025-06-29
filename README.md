@@ -99,7 +99,7 @@ This project is released under the **MIT License**.
 See [LICENSE](LICENSE) for details.
 
 Questions or feedback?  
-– GitHub: [@yourusername](https://github.com/Najo1on1)  
+– GitHub: [@Najo1on1](https://github.com/Najo1on1)  
 – Email: m1029jona@gmail.com 
 
 ---
