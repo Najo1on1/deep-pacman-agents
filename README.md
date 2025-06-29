@@ -99,8 +99,8 @@ This project is released under the **MIT License**.
 See [LICENSE](LICENSE) for details.
 
 Questions or feedback?  
-– GitHub: [@yourusername](https://github.com/yourusername)  
-– Email: your.email@example.com
+– GitHub: [@yourusername](https://github.com/Najo1on1)  
+– Email: m1029jona@gmail.com 
 
 ---
 
