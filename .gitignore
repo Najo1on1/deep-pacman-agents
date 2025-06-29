@@ -1,0 +1,11 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Virtual environments
+env/
+venv/
+# OS files
+Thumbs.db
+desktop.ini
